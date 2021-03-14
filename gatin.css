@@ -1,0 +1,9 @@
+iframe {
+    position:static;
+    padding: 10px;
+    display: block;
+    width: 370px;
+    float: right;
+    text-align: right;
+    
+}

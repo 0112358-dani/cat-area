@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica;
+    font-size: 10pt;
+    font-size: 15pt;
+    color: white;
+    background-color: crimson;
+    text-indent: 20pt;
+
+    
+}
+article {
+    margin-bottom: 800px;
+    padding: 5px;
+}
